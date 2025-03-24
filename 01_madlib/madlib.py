@@ -22,6 +22,7 @@ madLib = f"One {adj1} {noun1} was exploring a {adj2} {noun2} when it found a {ad
 Curious, it {verb1} closer and {verb2} it. Suddenly, a {adj4} {noun4} appeared and {verb3} loudly! Startled,  \
 the {adj5} {noun5} {verb4} away, never forgetting the {adj6} adventure."
 
+print("\n<<<<<<<<   The Strange Discovery   >>>>>>\n")
 print(madLib)
 
 
